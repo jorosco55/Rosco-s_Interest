@@ -1,0 +1,23 @@
+table, th, td {
+     border: 1px solid black;
+ }
+
+body {
+    background-color: lightgrey;
+    background-image: url("images/rebel_alliance.jpg");
+
+}
+
+
+img {
+    opacity: .9px;
+    filter: alpha(opacity=80);
+}
+
+tr:hover {
+    background-color: #FF6F00;
+}
+
+td {
+    color: #000099;
+}
